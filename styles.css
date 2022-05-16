@@ -1,0 +1,14 @@
+html{
+    background-color:azure;
+    position: absolute;
+    max-width:100%;
+    height: auto;
+}
+body{
+    position: absolute;
+    left: 50%;
+    top: 50%;
+}
+h1{
+    font-size: larger;
+}
